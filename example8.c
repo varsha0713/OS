@@ -29,7 +29,7 @@ int main()
 printf("Parent process:child process terminated normally\n");
             }
             else{
-                printf("Parent process:child processteminated abnormally\n");
+                printf("Parent process:child process teminated abnormally\n");
             }
             }
             return 0;
