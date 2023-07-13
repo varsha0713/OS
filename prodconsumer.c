@@ -58,7 +58,7 @@ int main()
     }  
     return 0;
 }
-/*
+//*
 OUTPUT
 -----------------------------------------------------------------------------
     1.Producer
@@ -104,4 +104,4 @@ Enter your choice:2
 Buffer is empty!!
 Enter your choice:2
 Buffer is empty!!
-Enter your choice:3    */
+Enter your choice:3    *//
