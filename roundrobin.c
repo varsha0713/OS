@@ -121,7 +121,7 @@ void main()
     scanf("%d",&quantum);
     roundRobin(processes,n,burst_time,quantum,arrival_time,prioritylist);
 }
-/* 
+//* 
 OUTPUT
 ----------------------------------------------------------------------
     Enter the number of processes: 4
@@ -148,4 +148,4 @@ Processes       AT      BT      Priority        WT      TAT     CT      RT
 AVG waiting time: 3.500000
 AVG turnaround time: 6.750000
 AVG Response time: 0.750000
-Total Idle time: 0    */
+Total Idle time: 0    *//
