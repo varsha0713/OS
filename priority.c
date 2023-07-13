@@ -110,7 +110,7 @@ void main()
     }
     priority(processes,n,burst_time,arrival_time,prioritylist);
 }
-/*  OUTPUT
+//*  OUTPUT
 -----------------------------------------------------------------------
 Enter the number of processes: 4
 Enter the arrival time for process 1:2
@@ -135,4 +135,4 @@ Processes       AT      BT      Priority        WT      TAT     CT      RT
 AVG waiting time: 4.500000
 AVG turnaround time: 7.750000
 AVG Response time: 4.500000
-Total Idle time: 0  */
+Total Idle time: 0  *//
