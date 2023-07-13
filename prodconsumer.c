@@ -58,10 +58,8 @@ int main()
     }  
     return 0;
 }
-//*
-OUTPUT
------------------------------------------------------------------------------
-    1.Producer
+/*OUTPUT
+1.Producer
 2.Consumer
 3.Exit
 Enter your choice:1
@@ -104,4 +102,4 @@ Enter your choice:2
 Buffer is empty!!
 Enter your choice:2
 Buffer is empty!!
-Enter your choice:3    *//
+Enter your choice:3    */
