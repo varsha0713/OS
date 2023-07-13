@@ -90,7 +90,7 @@ void main()
     }
     fcfs(processes,n,burst_time,arrival_time);
 }
-/* Enter the arrival time for process 1:2
+//* Enter the arrival time for process 1:2
 Enter the Burst time for processes 1:1
 Enter the arrival time for process 2:1
 Enter the Burst time for processes 2:5
@@ -107,4 +107,4 @@ Processes       AT      BT      WT      TAT     CT      RT
 AVG waiting time: 5.500000
 AVG turnaround time: 8.750000
 Total Idle time: 0
-*/
+*//
