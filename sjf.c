@@ -90,7 +90,7 @@ void main()
     }
     sjf(processes,n,burst_time,arrival_time);
 }
-/*
+//*
 OUTPUT
 -------------------------------------------------------------
     
@@ -111,4 +111,4 @@ Processes       AT      BT      WT      TAT     CT      RT
 4               0       6       10      16      16      10
 AVG waiting time: 3.500000
 AVG turnaround time: 6.750000
-Total Idle time: 3   */
+Total Idle time: 3   *//
